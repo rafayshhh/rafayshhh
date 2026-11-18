@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=MUHAMMAD%20ABDUL%20RAFAY&fontSize=40&fontColor=FF0033&fontAlignY=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=MUHAMMAD%20ABDUL%20RAFAY&fontSize=40&fontColor=FF0033&font=Ubuntu&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
