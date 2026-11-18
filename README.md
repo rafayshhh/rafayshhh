@@ -1,14 +1,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=MUHAMMAD%20ABDUL%20RAFAY&fontSize=72&fontColor=FF0033&fontAlignY=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=MUHAMMAD%20ABDUL%20RAFAY&fontSize=40&fontColor=FF0033&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=10&duration=2000&pause=500&color=929292&center=true&vCenter=true&repeat=true&width=250&lines=Minecraft+Modder;Mobile+App+Developer;Web+Developer;AI+%26+Automation;Founder+of+KreateKode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&duration=2000&pause=500&color=929292&center=true&vCenter=true&repeat=true&width=300&lines=Minecraft+Modder;Mobile+App+Developer;Web+Developer;AI+%26+Automation;Founder+of+KreateKode" />
 </p>
-
-<br/>
 
 <p align="center">
   <samp>ideas &rarr; software &rarr; products that matter</samp>
