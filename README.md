@@ -67,22 +67,34 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/rafayshhh/shhh-builder"><code>Shhh Builder</code></a> &nbsp;&mdash;&nbsp; Minecraft schematic viewer and building assistant
+  <a href="https://github.com/rafayshhh/customizable-player-health-indicator"><code>customizable-player-health-indicator</code></a> &nbsp;&mdash;&nbsp; Client-side Fabric mod for overhead player hearts & absorption
 </p>
 <p align="center">
-  <a href="https://github.com/rafayshhh/shhh-brightness-toggle"><code>Shhh Brightness Toggle</code></a> &nbsp;&mdash;&nbsp; Lightweight Minecraft fullbright mod
+  <a href="https://github.com/rafayshhh/customizable-mobs-health-indicator"><code>customizable-mobs-health-indicator</code></a> &nbsp;&mdash;&nbsp; Overhead mob health indicators with authentic 9x9 heart textures
 </p>
 <p align="center">
-  <a href="https://github.com/rafayshhh/kreate-typography"><code>Kreate Typography</code></a> &nbsp;&mdash;&nbsp; Creative typography and Unicode text toolkit
+  <a href="https://github.com/rafayshhh/shhh-brightness-toggle"><code>shhh-brightness-toggle</code></a> &nbsp;&mdash;&nbsp; Lightweight Minecraft fullbright toggle & gamma utility
 </p>
 <p align="center">
-  <a href="https://github.com/rafayshhh/calculator"><code>Calculator</code></a> &nbsp;&mdash;&nbsp; Advanced mathematical and scientific calculator
+  <a href="https://github.com/rafayshhh/shhh-builder"><code>shhh-builder</code></a> &nbsp;&mdash;&nbsp; Schematic viewer and building assistant for Fabric
 </p>
 <p align="center">
-  <a href="https://github.com/rafayshhh/blogforge"><code>BlogForge</code></a> &nbsp;&mdash;&nbsp; AI-powered writing and research studio
+  <a href="https://github.com/rafayshhh/shhh-printer"><code>shhh-printer</code></a> &nbsp;&mdash;&nbsp; Schematic block-placement companion mod for Shhh Builder
 </p>
 <p align="center">
-  <a href="https://kreatekode.website"><code>KreateKode</code></a> &nbsp;&mdash;&nbsp; Independent software studio
+  <a href="https://github.com/rafayshhh/calculator"><code>calculator</code></a> &nbsp;&mdash;&nbsp; Comprehensive Flutter calculator with 150 math, physics & finance tools
+</p>
+<p align="center">
+  <a href="https://github.com/rafayshhh/kreate-typography-showcase"><code>kreate-typography-showcase</code></a> &nbsp;&mdash;&nbsp; Unicode typography engine showcase with 105 styles & 22 toolkits
+</p>
+<p align="center">
+  <a href="https://github.com/rafayshhh/blogforge"><code>blogforge</code></a> &nbsp;&mdash;&nbsp; Local-first desktop studio for Gemini AI content research & publishing
+</p>
+<p align="center">
+  <a href="https://github.com/rafayshhh/p-pointer"><code>p-pointer</code></a> &nbsp;&mdash;&nbsp; Autonomous AI cursor for Photoshop powered by Gemini Vision
+</p>
+<p align="center">
+  <a href="https://github.com/rafayshhh/portfolio-website"><code>portfolio-website</code></a> &nbsp;&mdash;&nbsp; Bespoke developer portfolio built with Next.js 15, TypeScript & Tailwind CSS
 </p>
 
 <br/>
